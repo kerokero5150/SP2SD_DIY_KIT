@@ -8,7 +8,9 @@ Created by Australian genius Robert Justice, SmartPortCFA was ported to Arduino 
 
 <BR>
 More details here (My Blog):
-  [https://ameblo.jp/keroxiee1016/entry-12782849654.html](https://ameblo.jp/keroxiee1016/entry-12819341808.html)
+    [https://ameblo.jp/keroxiee1016/entry-12819341808.html](https://ameblo.jp/keroxiee1016/entry-12819341808.html)
+    
+  
 
 <br>
 　![alt](SD2SD_PIX/PCB_TOP.png)
