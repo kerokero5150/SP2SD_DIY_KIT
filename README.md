@@ -4,7 +4,9 @@
 　![alt](SD2SD_PIX/IMG_7010.jpeg)
 # What kind of product is this
 It is based on an open source project called SmartPortSD. 
-Created by Australian genius Robert Justice, SmartPortCFA was ported to Arduino hardware by Italian programmer genius Andrea Ottaviani.  to porting to Arduino hardware. It was improved upon by Katherine Stark of Canada. She made available its ability to access four ProDOS-formatted 32MB PO files stored on a FAT32-formatted SD card. When she did this successfully, many wanted to build it.
+Created by Australian genius Robert Justice, SmartPortCFA was ported to Arduino hardware by Italian programmer genius Andrea Ottaviani.  to porting to Arduino hardware. It was improved upon by [Katherine Stark](https://gitlab.com/nyankat/smartportsd) of Canada. She made available its ability to access four ProDOS-formatted 32MB PO files stored on a FAT32-formatted SD card. When she did this successfully, many wanted to build it.
+
+*Got permission from the three geniuses I introduced earlier.
 
 <BR>
 More details here (My Blog):
