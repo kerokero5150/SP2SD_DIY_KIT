@@ -28,7 +28,7 @@ You can 3D print the base material and pull out the pins from a [DB25 male conne
 ## Supported AppleIIs
 
 <BR>
-<img src="SD2SD_PIX/IMG_6963.jpeg" width="600px">
+<img src="SD2SD_PIX/IMG_6963.jpeg" width="420px">
 
 <BR><BR>
 Apple IIc, IIgs. For Apple IIe, you can use it via Liron card.
