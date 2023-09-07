@@ -42,7 +42,7 @@ You can use it by compressing [SPSD_DIY_NANO_GERBER.zip](SPSD_DIY_NANO_GERBER.zi
 
 Bare PCB will be sold in our [store](https://en.infinityproducts.co.jp/shop-1). If you are having trouble ordering a PCB or are not used to it, please contact us.
 
-## License
+## Licenses
 
 SmartportSD software licenses are listed [here](SMARTPORTSD_LICENSE.md).
 Ⓒ2023 Katherine Stark, Robert Justice, Andrea Ottaviani. All rights reserved.
