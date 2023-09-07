@@ -1,7 +1,7 @@
 # SP2SD_DIY_KIT
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 <br>
-　![alt](SD2SD_PIX/IMG_7010.jpeg)
+<img src="SD2SD_PIX/IMG_7010.jpeg" width="600px">
 # What kind of product is this
 It is based on an open source project called SmartPortSD. 
 Created by Australian genius Robert Justice, SmartPortCFA was ported to Arduino hardware by Italian programmer genius Andrea Ottaviani.  to porting to Arduino hardware. It was improved upon by [Katherine Stark](https://gitlab.com/nyankat/smartportsd) of Canada. She made available its ability to access four ProDOS-formatted 32MB PO files stored on a FAT32-formatted SD card. When she did this successfully, many wanted to build it.
