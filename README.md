@@ -37,6 +37,9 @@ Apple IIc, IIgs. For Apple IIe, you can use it via Liron card.
 
 You can use it by compressing [SPSD_DIY_NANO_GERBER.zip](SPSD_DIY_NANO_GERBER.zip)  and uploading it to JLCPCB as it is.
 
+<BR>
+<img src="SD2SD_PIX/PCB_TOP.png" width="600px">
+
 ## License
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
