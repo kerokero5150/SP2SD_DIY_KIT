@@ -21,9 +21,10 @@ Under constructions, You can see which parts should be attached where by looking
 The IDC20 connector can be oriented in various ways depending on how you use it, When installing the male IDC20pin connector, be sure to make sure that the part is on the top side. When stacking two PCBs, make sure the hole and ▼ are in the same position. In that case, match the IDC20pin male and female connectors or connect them with a 2X10 pin header.
 
 ## Supported AppleIIs
-![alt](SD2SD_PIX/IMG_6963.jpeg)
+
 <BR>
-*
+<img src="SD2SD_PIX/IMG_6963.jpeg" width="600px">
+
 <BR><BR>
 Apple IIc, IIgs. For Apple IIe, you can use it via Liron card.
 
