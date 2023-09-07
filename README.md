@@ -14,8 +14,8 @@ https://ameblo.jp/keroxiee1016/entry-12819341808.html
  
 ## Assemble
 
-Under construction
-Check out the [assembly instructions](Assembly/README.md) when you're ready to get started.
+Under constructions, You can see which parts should be attached where by looking at our [BOM](SP2SD_NANO_DIY_BOM.csv). The diode has polarity, so match the line and K. Flip the MicroSD board face down and either straighten the right angle pin headers or replace them with vertical pin headers.
+![alt](SD2SD_PIX/IMG_6993.jpeg)
 
 ## Supported AppleIIs
 ![alt](SD2SD_PIX/IMG_6963.jpeg)
