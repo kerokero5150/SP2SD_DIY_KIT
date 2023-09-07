@@ -15,8 +15,8 @@ https://ameblo.jp/keroxiee1016/entry-12819341808.html
 ## Assemble
 
 Under constructions, You can see which parts should be attached where by looking at our [BOM](SP2SD_NANO_DIY_BOM.csv). The diode has polarity, so match the line and K. Flip the MicroSD board face down and either straighten the right angle pin headers or replace them with vertical pin headers.
+<BR>
 <img src="SD2SD_PIX/IMG_6993.jpeg" width="320px">
-![alt](SD2SD_PIX/IMG_6993.jpeg)
 The IDC20 connector can be oriented in various ways depending on how you use it, When installing the male IDC20pin connector, be sure to make sure that the part is on the top side. When stacking two PCBs, make sure the hole and ▼ are in the same position. In that case, match the IDC20pin male and female connectors or connect them with a 2X10 pin header.
 
 ## Supported AppleIIs
