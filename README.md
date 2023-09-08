@@ -25,13 +25,13 @@ The IDC20 connector can be oriented in various ways depending on how you use it,
 You can 3D print the base material and pull out the pins from a [DB25 male connector](https://www.amazon.com/PC-Accessories-Connectors-Connector-25-PACK/dp/B073KR622F/ref=sr_1_2_sspa?crid=2ZCRZ8PNIBJ4R&keywords=DB25+connector+male&qid=1693987417&sprefix=db25+connector+mal%2Caps%2C398&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) and insert them, or purchase new pins from [AliExpress](https://www.aliexpress.com/item/1005002617586407.html?spm=a2g0o.order_list.order_list_main.16.55d11802jCHaOW). We have omitted unnecessary pins to make it simple for you to create. I will give out free .STL files that can be 3D printed. DB19 connector file is [this](KEROS_DB19_V1.zip).
 
 
-## Supported Apple IIs
+## Supported Apple II computers
 
 <BR>
 <img src="SD2SD_PIX/IMG_6963.jpeg" width="360px">
 
 <BR><BR>
--Apple IIc, IIc+ *In the case of IIc, Smartport cannot be used as is with ROM255, so a ROM upgrade is required. The easiest way is to flash ROM4X yourself. [Here](https://www.apple2faq.com/apple2faq/apple-iic-rom-upgrade/?fbclid=IwAR3BZfkTRkhG0zg6dHxvxYdH9SbyCvsA-Zr1-_e0wyenW6WFG-cKSsxj_oM) is the information.<BR>
+-Apple IIc, IIc+ *In the case of IIc, Smartport cannot be used as is with ROM255, so a ROM upgrade is required. The easiest way is to flash [ROM4X](https://github.com/mgcaret/rom4x) yourself. [Here](https://www.apple2faq.com/apple2faq/apple-iic-rom-upgrade/?fbclid=IwAR3BZfkTRkhG0zg6dHxvxYdH9SbyCvsA-Zr1-_e0wyenW6WFG-cKSsxj_oM) is the information.<BR>
 -Apple IIgs <BR>
 -Apple IIe, IIe Enhanced, IIe Platinum, II Plus *you can use it via Expansion cards like "Liron" card, or insert the DIY SoftSP card into the #5 slot and use it via the DiskII card in the #6 slot.　BMOW also has a highly functional card called "Yellowstone", which can also be used.
 
