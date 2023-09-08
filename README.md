@@ -35,7 +35,7 @@ You can 3D print the base material and pull out the pins from a [DB25 male conne
 - Apple IIc, IIc Plus *In the case of IIc, Smartport cannot be used as is with older ROM 255, so a ROM upgrade is required. The easiest way is to flash [ROM4X](https://github.com/mgcaret/rom4x) yourself. [Here](https://www.apple2faq.com/apple2faq/apple-iic-rom-upgrade/?fbclid=IwAR3BZfkTRkhG0zg6dHxvxYdH9SbyCvsA-Zr1-_e0wyenW6WFG-cKSsxj_oM) is the information.<BR>
 - Apple IIe, IIe Enhanced, IIe Platinum, II Plus *you can use it via Expansion cards like "Liron" card, or insert the DIY SoftSP card into the #5 slot and use it via the DiskII card in the #6 slot.　BMOW also has a highly functional card called "Yellowstone", which can also be used.
 
-## Gerber files
+## To get the SP2SD PCB
 
 You can use [SPSD_DIY_NANO_GERBER.zip](SPSD_DIY_NANO_GERBER.zip)  and uploading it to JLCPCB or PCBWAY as it is.
 
@@ -43,6 +43,8 @@ You can use [SPSD_DIY_NANO_GERBER.zip](SPSD_DIY_NANO_GERBER.zip)  and uploading 
 <img src="SD2SD_PIX/PCB_TOP.png" width="600px">
 
 Bare PCB will be sold in our [store](https://en.infinityproducts.co.jp/shop-1). If you are having trouble ordering a PCB or are not used to it, please contact us.
+*It will be available in our stores in late September 2023.
+
 
 ## Licenses
 
