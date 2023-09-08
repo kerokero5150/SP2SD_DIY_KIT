@@ -37,7 +37,7 @@ You can 3D print the base material and pull out the pins from a [DB25 male conne
 
 ## Gerber files
 
-You can use it by compressing [SPSD_DIY_NANO_GERBER.zip](SPSD_DIY_NANO_GERBER.zip)  and uploading it to JLCPCB as it is.
+You can use [SPSD_DIY_NANO_GERBER.zip](SPSD_DIY_NANO_GERBER.zip)  and uploading it to JLCPCB or PCBWAY as it is.
 
 <BR>
 <img src="SD2SD_PIX/PCB_TOP.png" width="600px">
