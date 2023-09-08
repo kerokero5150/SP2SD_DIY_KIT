@@ -42,13 +42,13 @@ You can use [SPSD_DIY_NANO_GERBER.zip](SPSD_DIY_NANO_GERBER.zip)  and uploading 
 <BR>
 <img src="SD2SD_PIX/PCB_TOP.png" width="600px">
 
-Bare PCB will be sold in our [store](https://en.infinityproducts.co.jp/shop-1). If you are having trouble ordering a PCB or are not used to it, please contact us.
+Bare PCB <INS>will be<INS> sold in our [store](https://en.infinityproducts.co.jp/shop-1). If you are having trouble ordering a PCB or are not used to it, please contact us.
 *It will be available in our stores in late September 2023.
 
 
 ## Licenses
 
-SmartportSD software licenses are listed [here](SMARTPORTSD_LICENSE.md) under the MIT license.
+SmartportSD software licenses are listed [here](SMARTPORTSD_LICENSE.md) under the <INS>MIT<INS> license.
 Ⓒ2023 Katherine Stark, Robert Justice, Andrea Ottaviani. All rights reserved.
 
 This SP2SD hardware is licensed under a
