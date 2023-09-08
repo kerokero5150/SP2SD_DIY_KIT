@@ -46,12 +46,11 @@ Bare PCB will be sold in our [store](https://en.infinityproducts.co.jp/shop-1). 
 
 ## Licenses
 
-SmartportSD software licenses are listed [here](SMARTPORTSD_LICENSE.md).
+SmartportSD software licenses are listed [here](SMARTPORTSD_LICENSE.md) under the MIT license.
 Ⓒ2023 Katherine Stark, Robert Justice, Andrea Ottaviani. All rights reserved.
-
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 This SP2SD hardware is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 Ⓒ 2023 Kay Koba, Kero's mac Mods, All rights reserved.
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
