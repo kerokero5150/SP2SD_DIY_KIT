@@ -31,9 +31,9 @@ You can 3D print the base material and pull out the pins from a [DB25 male conne
 <img src="SD2SD_PIX/IMG_6963.jpeg" width="360px">
 
 <BR><BR>
--Apple IIc<BR>
+-Apple IIc, IIc+<BR>
 -Apple IIgs <BR>
--Apple IIe, *you can use it via Liron card.
+-Apple IIe, IIe Enhanced, IIe Platinum, II Plus *you can use it via Expansion cards like "Liron" card, or insert the DIY SoftSP card into the #5 slot and use it via the DiskII card in the #6 slot.　BMOW also has a highly functional card called "Yellowstone", which can also be used.
 
 ## Gerber files
 
