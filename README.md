@@ -33,7 +33,8 @@ You can 3D print the base material and pull out the pins from a [DB25 male conne
 <BR><BR>
 - Apple IIgs<BR>
 - Apple IIc, IIc Plus *In the case of IIc, Smartport cannot be used as is with older ROM 255, so a ROM upgrade is required. The easiest way is to flash [ROM4X](https://github.com/mgcaret/rom4x) yourself. [Here](https://www.apple2faq.com/apple2faq/apple-iic-rom-upgrade/?fbclid=IwAR3BZfkTRkhG0zg6dHxvxYdH9SbyCvsA-Zr1-_e0wyenW6WFG-cKSsxj_oM) is the information.<BR>
-- Apple IIe, IIe Enhanced, IIe Platinum, II Plus *you can use it via Expansion cards like "Liron" card, or insert the DIY SoftSP card into the #5 slot and use it via the DiskII card in the #6 slot.　BMOW also has a highly functional card called "Yellowstone", which can also be used. For the II Plus, the latest version of Soft SP will work.
+- Apple IIe, IIe Enhanced, IIe Platinum *you can use it via Expansion cards like "Liron" card, or insert the DIY SoftSP card into the #5 slot and use it via the DiskII card in the #6 slot. BMOW also has a highly functional card called "Yellowstone", which can also be used. <BR>
+- Apple II Plus, For the II Plus, A cards similar to the IIe will help, but with soft SP it will work with the latest version. [Petar Puskarich](https://www.youtube.com/watch?v=z-SdIHjheeM&t=1436s) says that V6.0 works. I haven't tested it yet so I'll try it now.<BR>
 
 ## To get the SP2SD PCB
 
