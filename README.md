@@ -14,14 +14,14 @@ https://ameblo.jp/keroxiee1016/entry-12819341808.html
 
 ## Flashing Arduino Nano
 
-You can flash your Arduino Nano via ArduinoIDE. Please download and use firmware of "SmartportSD-1.15 2" folder. If a new folder is created when using the Arduino IDE, please re-insert all the contents of this "SmartportSD-1.15 2" folder into the new folder.
-
-The Nano board you should choose is MEGA328P. Please do not buy MEGA168P as it has 38% insufficient capacity and cannot be flashed.
-
-The Arduino IDE settings are as follows,
-Board: "Arduino Nano"
-Processor: "ATmega328P(Old Bootloader)"
-Programmer: "AVRISP mkII"
+You can flash your Arduino Nano via ArduinoIDE. Please download and use firmware of "SmartportSD-1.15 2" folder. If a new folder is created when using the Arduino IDE, please re-insert all the contents of this "SmartportSD-1.15 2" folder into the new folder.<BR>
+<BR>
+The Nano board you should choose is MEGA328P. Please do not buy MEGA168P as it has 38% insufficient capacity and cannot be flashed.<BR>
+<BR>
+The Arduino IDE settings are as follows,<BR>
+Board: "Arduino Nano"<BR>
+Processor: "ATmega328P(Old Bootloader)"<BR>
+Programmer: "AVRISP mkII"<BR>
 
 ## Assemble
 
