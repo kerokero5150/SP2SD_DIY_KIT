@@ -11,7 +11,16 @@ Created by Australian genius [Robert Justice](https://web.archive.org/web/202302
 <BR>
 More details here (My Blog):
 https://ameblo.jp/keroxiee1016/entry-12819341808.html
- 
+
+## Flashing Arduino Nano
+
+You can flash your Arduino Nano via ArduinoIDE. Please use [this](SmartportSD-1.15 2) firmware.
+The Nano board you should choose is MEGA328P. Please do not buy MEGA168P as it has 38% insufficient capacity and cannot be flashed.
+The settings are as follows,
+Board: "Arduino Nano"
+Processor: "ATmega328P(Old Bootloader)"
+Programmer: "AVRISP mkII"
+
 ## Assemble
 
 Under constructions, You can see which parts should be attached where by looking at our [BOM](SP2SD_NANO_DIY_BOM.csv). The diode has polarity, so match the line and K. Flip the MicroSD board face down and either straighten the right angle pin headers or replace them with vertical pin headers.
