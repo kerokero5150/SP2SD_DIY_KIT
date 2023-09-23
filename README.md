@@ -24,8 +24,7 @@ Processor: "ATmega328P(Old Bootloader)"<BR>
 Programmer: "AVRISP mkII"<BR>
 
 ## Assemble
-
-Under constructions, You can see which parts should be attached where by looking at our [BOM](SP2SD_NANO_DIY_BOM.csv). The diode has polarity, so match the line and K. Flip the MicroSD board face down and either straighten the right angle pin headers or replace them with vertical pin headers.
+Uploaded on Sep 24, assembly instructions can be found [here](SP2SD_DIY_INST.pdf), You can see which parts should be attached where by looking at our [BOM](SP2SD_NANO_DIY_BOM.csv). 
 <BR>
 <img src="SD2SD_PIX/IMG_6993.jpeg" width="320px">
 <BR>
