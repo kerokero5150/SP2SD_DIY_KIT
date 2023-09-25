@@ -48,6 +48,20 @@ You can 3D print the base material and pull out the pins from a [DB25 male conne
 
 (1) About a SoftSP DIY, My test results ROM revisions V2 and V3 worked with IIe, but they doesn't work well with II Plus. In the V5 and V6, I/O errors occur with IIe, of course it doesn't work on II Plus. There's probably a timing issue. <BR><BR>
 
+## Usage
+<BR>
+Use a FAT32 formatted MicroSD card. Most of the MicroSD cards currently on sale can be used as is.
+Extension .po files can be used.<BR><BR>
+The disk image that can be used for SP2SD is a .PO file with a maximum size of 32MB. Place this file at the root of your micro SD card. Up to 4 files can be recognized.<BR>
+If your disk image is in .HDV format, If the extension is .hdv, the catalog structure is the same, so you should be able to use it by simply changing the file name to .po. [CiderPress V4](https://a2ciderpress.com) can also be used with other extensions.
+I think the most popular way to use SP2SD on the IIc is to use [TotalReplay](https://archive.org/details/TotalReplay), a collection of appleII games. <BR>
+The IIgs supports GSOS. In this case, you can check all four files at the same time on the OS's finder. If you only have a IIgs, the SP2SD is the device with the best value for money.<BR><BR>
+*If you change the extension from .hdv to .po and it doesn't work, you can use [CiderPress V4](https://a2ciderpress.com) to convert it to a .PO file. CiderPressV4 can be done on Windows 7 and up. *For Win98/ME/2K/XP there is an older version.<BR>
+
+ 
+
+
+
 ## To use Apple IIc's smart port
 For Apple IIc, Smartport will not be enabled if ROM 255 is installed. To check the ROM of your IIc, run the following program from the Basic prompt.
   PRINT PEEK (64447)
