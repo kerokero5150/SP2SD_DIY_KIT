@@ -52,7 +52,7 @@ You can 3D print the base material and pull out the pins from a [DB25 male conne
 <BR>
 Use a FAT32 formatted MicroSD card. Most of the MicroSD cards currently on sale can be used as is.
 Extension .po files can be used.<BR><BR>
-The disk image that can be used for SP2SD is a .PO file with a maximum size of 32MB. Place this file at the root of your micro SD card. Up to 4 files can be recognized.<BR>
+The disk image that can be used for SP2SD is a .PO file with a maximum size of 32MB. Place this file at the root of your micro SD card. Up to 4 files can be recognized. The first file name should be “PART1.PO”. As you can imagine, there can place four files, so from the second file on, name the files with regularity, such as "PART2.PO", "PART3.PO", and "PART4.PO".<BR>
 If your disk image is in .HDV format, If the extension is .hdv, the catalog structure is the same, so you should be able to use it by simply changing the file name to .po. [CiderPress V4](https://a2ciderpress.com) can also be used with other extensions.
 I think the most popular way to use SP2SD on the IIc is to use [TotalReplay](https://archive.org/details/TotalReplay), a collection of appleII games. <BR>
 The IIgs supports GSOS. In this case, you can check all four files at the same time on the OS's finder. If you only have a IIgs, the SP2SD is the device with the best value for money.<BR><BR>
