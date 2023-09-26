@@ -38,6 +38,11 @@ You can 3D print the base material and pull out the pins from a [DB25 male conne
 
 Our awesome friend [Mr Lurch](https://www.youtube.com/channel/UCMQ28v823w6p1ZnyiZDVwUg) completed the shell case design. This can be used by connecting boards A and B with pin headers without using cables. [Here](https://www.thingiverse.com/thing:6235981) is the case stl files.
 
+<img src="SD2SD_PIX
+/featured_preview_ab096b0b-b7fb-4642-bbca-2324291519f1.JPG" width="320px">
+
+
+
 ## Supported Apple II computers
 
 <BR>
