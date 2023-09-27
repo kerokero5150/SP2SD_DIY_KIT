@@ -28,7 +28,8 @@ Uploaded on Sep 24, assembly instructions can be found [here](SP2SD_DIY_INST.pdf
 <BR>
 <img src="SD2SD_PIX/IMG_6993.jpeg" width="320px">
 <BR>
-The IDC20 connector can be oriented in various ways depending on how you use it, When installing the male IDC20pin connector, be sure to make sure that the part is on the top side. When stacking two PCBs, make sure the hole and ▼ are in the same position. In that case, match the IDC20pin male and female connectors or connect them with a 2X10 pin header.
+The IDC20 connector can be oriented in various ways depending on how you use it, When installing the male IDC20pin connector, be sure to make sure that the part is on the top side. When stacking two PCBs, make sure the hole and ▼ are in the same position. In that case, match the IDC20pin male and female connectors or connect them with a 2X10 pin header.<BR><BR>
+日本語の組み立て説明書は[こちら](SP2SD_DIY_KIT/SP2SD_DIY_INST_JPN.pdf)から
 
 ## DB19 male connector
 
