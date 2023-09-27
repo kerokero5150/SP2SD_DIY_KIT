@@ -1,8 +1,8 @@
-# SP2SD_DIY_KIT
+# SPIISD DIY KIT
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 <br>
 <img src="SD2SD_PIX/IMG_7010.jpeg" width="520px">
-# What kind of product is this
+# Whatt is SPIISD ?
 It is based on an open source project called SmartPortSD. 
 Created by Australian genius [Robert Justice](https://web.archive.org/web/20230222233834/http://www.users.on.net/~rjustice/SmartportCFA/SmartportCFA.htm), SmartPortCFA was ported to Arduino hardware by Italian programmer genius [Andrea Ottaviani](https://github.com/aotta?fbclid=IwAR0_7cMKVhMVrHznB9bIub9ZmrmBlwAM3p6-_CQd0JFW1o736nUNZHyuTdw).  to porting to Arduino hardware. It was improved upon by [Katherine Stark](https://gitlab.com/nyankat/smartportsd) of Canada. She made available its ability to access four ProDOS-formatted 32MB PO files stored on a FAT32-formatted SD card. When she did this successfully, many wanted to build it.
 
@@ -59,10 +59,10 @@ Our awesome friend [Mr Lurch](https://www.youtube.com/channel/UCMQ28v823w6p1Znyi
 <BR>
 Use a FAT32 formatted MicroSD card. Most of the MicroSD cards currently on sale can be used as is.
 Extension .po files can be used.<BR><BR>
-The disk image that can be used for SP2SD is a .PO file with a maximum size of 32MB. Place this file at the root of your micro SD card. Up to 4 files can be recognized. The first file name should be “PART1.PO”. As you can imagine, there can place four files, so from the second file on, name the files with regularity, such as "PART2.PO", "PART3.PO", and "PART4.PO".<BR>
+The disk image that can be used for SPIISD is a .PO file with a maximum size of 32MB. Place this file at the root of your micro SD card. Up to 4 files can be recognized. The first file name should be “PART1.PO”. As you can imagine, there can place four files, so from the second file on, name the files with regularity, such as "PART2.PO", "PART3.PO", and "PART4.PO".<BR>
 For disk images with the .hdv extension, the catalog structure is the same, so you should be able to use them by simply renaming the file to .po. An APP called CiderPress V4 can convert other file extensions to .po.<BR><BR>
-I think the most popular way to use SP2SD on the IIc is to use TotalReplay, a collection of old appleII games. <BR>
-The IIgs supports GSOS. In this case, you can check all four files at the same time on the OS's finder. If you only have a IIgs, the SP2SD is the device with the best value for money.<BR><BR>
+I think the most popular way to use SPIISD on the IIc is to use TotalReplay, a collection of old appleII games. <BR>
+The IIgs supports GSOS. In this case, you can check all four files at the same time on the OS's finder. If you only have a IIgs, the SPIISD is the device with the best value for money.<BR><BR>
 *If you change the extension from .hdv to .po and it doesn't work, you can use CiderPress to convert it to a .PO file. CiderPressV4 can be done on Windows 7 and up. *For Win98/ME/2K/XP there is an older version.<BR>
 <BR>
 CiderPress V4:<BR>(https://a2ciderpress.com)<BR><BR>
@@ -85,7 +85,7 @@ If you want to swap the ROM from 255 to another ROM, you need to change the sold
 255 is 16KB while other ROMs are 32KB. Enable 32KB by changing Pin27, which is A14, from pull-down to pull-up. 
 See below for solder jumper locations. [External site](https://www.apple2faq.com/apple2faq/apple-iic-rom-upgrade/?fbclid=IwAR3BZfkTRkhG0zg6dHxvxYdH9SbyCvsA-Zr1-_e0wyenW6WFG-cKSsxj_oM)
 
-## To get the SP2SD PCB
+## To get the SPIISD PCB
 
 You can use [SPSD_DIY_NANO_GERBER.zip](SPSD_DIY_NANO_GERBER.zip)  and uploading it to JLCPCB or PCBWAY as it is.
 
@@ -101,7 +101,7 @@ You can use [SPSD_DIY_NANO_GERBER.zip](SPSD_DIY_NANO_GERBER.zip)  and uploading 
 SmartportSD software licenses are listed [here](SMARTPORTSD_LICENSE.md) under the MIT license.
 Ⓒ2023 Katherine Stark, Robert Justice, Andrea Ottaviani. All rights reserved.
 
-This SP2SD hardware is licensed under a
+This SPIISD hardware is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 Ⓒ 2023 Kay Koba, Kero's mac Mods, All rights reserved.
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
