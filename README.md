@@ -92,8 +92,8 @@ You can use [SPSD_DIY_NANO_GERBER.zip](SPSD_DIY_NANO_GERBER.zip)  and uploading 
 <BR>
 <img src="SD2SD_PIX/PCB_TOP.png" width="600px">
 
-<INS>Bare PCB will be sold in our [store](https://en.infinityproducts.co.jp/shop-1). If you are having trouble ordering a PCB or are not used to it, please contact us.
-*It will be available in our stores in late September 2023.<INS>
+The kit comes complete with all parts, and Bare PCB are sold in our [store](https://en.infinityproducts.co.jp/shop-1). If you are having trouble ordering a PCB, visit our store.
+
 
 
 ## Licenses
