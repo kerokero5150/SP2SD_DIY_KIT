@@ -73,14 +73,14 @@ TotalReplay:<BR>(https://archive.org/details/TotalReplay)<BR><BR>
 
 
 ## To use Apple IIc's smart port
-For Apple IIc, Smartport will not be enabled if ROM 255 is installed. To check the ROM of your IIc, run the following program from the Basic prompt.
+For Apple IIc, Smartport will not be enabled if ROM 255 is installed(Probably ROM0 as well). To check the ROM of your IIc, run the following program from the Basic prompt.
   PRINT PEEK (64447)
-If the output number is "255", the ROM needs to be replaced. The ROM versions that Smartport can use are "0", "3" and "4". For these numbers, ROM replacement is not necessary.
+If the output number is "255", the ROM needs to be replaced. The ROM versions that Smartport can use are "3", "4" and ROM"4x". For these numbers, ROM replacement is not necessary.
 
 The replaced ROMs are available [here](https://mirrors.apple2.org.za/Apple%20II%20Documentation%20Project/Computers/Apple%20II/Apple%20IIc/ROM%20Images/).
-There is also the useful hacked [ROM4X](https://github.com/mgcaret/rom4x).
+There is also the useful hacked [ROM4X](https://github.com/mgcaret/rom4x). This is a fairly new ROM updated in 2018.<BR><BR>
 
-My recommendation is ROM4X.
+My recommendation is ROM4X.<BR>
 
 If you want to swap the ROM from 255 to another ROM, you need to change the solder jumpers "W1" and "W2". 
 255 is 16KB while other ROMs are 32KB. Enable 32KB by changing Pin27, which is A14, from pull-down to pull-up. 
