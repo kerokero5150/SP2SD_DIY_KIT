@@ -58,7 +58,7 @@ Our awesome friend [Mr Lurch](https://www.youtube.com/channel/UCMQ28v823w6p1Znyi
 
 ## Usage
 <BR>
-Use a FAT32 formatted MicroSD card. Most of the MicroSD cards currently on sale can be used as is.
+Use a FAT32(16) formatted MicroSD card. Most of the MicroSD cards currently on sale can be used as is.
 Extension .po files can be used.<BR><BR>
 The disk image that can be used for SPIISD is a .PO file with a maximum size of 32MB. Place this file at the root of your micro SD card. Up to 4 files can be recognized. The first file name should be “PART1.PO”. As you can imagine, there can place four files, so from the second file on, name the files with regularity, such as "PART2.PO", "PART3.PO", and "PART4.PO".<BR>
 For disk images with the .hdv extension, the catalog structure is the same, so you should be able to use them by simply renaming the file to .po. An APP called CiderPressV4 can convert other file extensions to .po.<BR><BR>
