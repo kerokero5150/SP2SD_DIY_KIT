@@ -39,7 +39,7 @@ You can 3D print the base material and pull out the pins from a [DB25 male conne
 
 Our awesome friend [Mr Lurch](https://www.youtube.com/channel/UCMQ28v823w6p1ZnyiZDVwUg) completed the shell case design. This can be used by connecting boards A and B with pin headers without using cables.<BR><BR>
  [Here](https://www.thingiverse.com/thing:6235981) is the case stl files for integrated.<BR>
- [Here]([https://www.thingiverse.com/thing:6235981](https://www.thingiverse.com/thing:6248598?fbclid=IwAR0vEW7lf3yh8PHgnu9pIWw6GUtIHxAWK1atTsAsRar9afVskjA9ago8XzA)) is the case stl files for cable connection.
+ [Here](https://www.thingiverse.com/thing:6248598fbclid=IwAR0vEW7lf3yh8PHgnu9pIWw6GUtIHxAWK1atTsAsRar9afVskjA9ago8XzA)) is the case stl files for cable connection.
 
 
 
