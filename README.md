@@ -44,7 +44,8 @@ Our awesome friend [Mr Lurch](https://www.youtube.com/channel/UCMQ28v823w6p1Znyi
 
 
 <img src="SD2SD_PIX/featured_preview_ab096b0b-b7fb-4642-bbca-2324291519f1.JPG" width="320px">
-<img src="SD2SD_PIX/large_display_4007bc3e-9274-41ef-b832-ba9b7ebddd8f.JPG" width="320px">
+<img src="SD2SD_PIX/large_display_4007bc3e-9274-41ef-b832-ba9b7ebddd8f.JPG" width="200
+px">
 
 
 
