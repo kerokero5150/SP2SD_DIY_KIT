@@ -23,7 +23,7 @@ The Nano board you should choose is MEGA328P. Please do not buy MEGA168P as it h
 The Arduino IDE settings are as follows,<BR>
 Board: "Arduino Nano"<BR>
 Processor: "ATmega328P(Old Bootloader)"<BR>
-Port: Number of USB port connected to Arduino Uno<BR>
+Port: Number of USB port connected to Arduino Uno *In your PC<BR>
 Programmer: "AVRISP mkII"<BR>
 
 ## Assemble
