@@ -60,10 +60,10 @@ px">
 <BR><BR>
 - Apple IIgs　*Even you set the startup slot to #5 and remove other bootable devices the startup timing does not match, try the shortcut key "Open Apple" + "Control" + "Reset" to reboot. If you are new to IIgs, make sure to release key "Open Apple"　 last and it will reboot easily.<BR>
 - Apple IIc, IIc Plus *In the case of IIc, Smartport cannot be used as is with older ROM 255, so a ROM upgrade is required. See the chapter bellow
-- Apple IIe, IIe Enhanced, IIe Platinum *you can use it via Expansion cards like "Liron" card, or insert the DIY SoftSP card*(1) into the #5 slot and use it via the DiskII card in the #6 slot. BMOW also has a highly functional card called "Yellowstone", which can also be used. <BR>
+- Apple IIe, IIe Enhanced, IIe Platinum, works well with Grappler Minus card (1) with SoftSP diy ROM V2, V3 and V6-a. It works into the #5 slot and use it via the DiskII card in the #6 slot. In other words, it is a card that connects SmartPort with two cards.<BR>*You can also use it via "Liron" card, BMOW also has a highly functional card called "Yellowstone", which can also be used. <BR>
 - Apple II Plus, works well with GrapplerMinus card with SoftSP diy ROM V2, V3 and V6-a.<BR>
 
-(1) About a SoftSP DIY, My test results ROM revisions V2 and V3 worked with IIe, but they doesn't work well with II Plus. In the V5 and V6, I/O errors occur with IIe, of course it doesn't work on II Plus. There's probably a timing issue. <BR><BR>
+(1) We developed the [Grappler Minus card](https://github.com/kerokero5150/GrapplerMinus/blob/main/README.md), which overcomes timing issues. This is also open source and anyone can create it, but it is not allowed to be sold. It is also available for purchase at our store. <BR><BR> 
 
 ## Usage
 <BR>
