@@ -63,7 +63,8 @@ px">
 - Apple IIe, IIe Enhanced, IIe Platinum, works well with Grappler Minus card (1) with SoftSP diy ROM V2, V3 and V6-a. It works into the #5 slot and use it via the DiskII card in the #6 slot. In other words, it is a card that connects SmartPort with two cards.<BR>*You can also use it via "Liron" card, BMOW also has a highly functional card called "Yellowstone", which can also be used. <BR>
 - Apple II Plus, works well with GrapplerMinus card with SoftSP diy ROM V2, V3 and V6-a.<BR>
 
-(1) We developed the [Grappler Minus card](https://github.com/kerokero5150/GrapplerMinus/blob/main/README.md), which overcomes timing issues. This is also open source and anyone can create it, but it is not allowed to be sold. It is also available for purchase at our store. <BR><BR> 
+(1) We developed the [Grappler Minus card](https://github.com/kerokero5150/GrapplerMinus/blob/main/README.md), which overcomes timing issues. This is also open source and anyone can create it, but it is not allowed to be sold. It is also available for purchase at our store. <BR><BR>
+If you use SoftSP with the Genuine "Grappler Plus" card, the functionality of SoftSP DIY will be limited due to the unnecessary circuitry of the printer interface. Specifically, it only works with Apple IIe, and only V2 and V3 ROMs can be used.
 
 ## Usage
 <BR>
