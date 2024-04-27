@@ -103,7 +103,7 @@ You can use [SPSD_DIY_NANO_GERBER.zip](SPSD_DIY_NANO_GERBER.zip)  and uploading 
 <BR>
 <img src="SD2SD_PIX/PCB_TOP.png" width="600px">
 
-The kit comes complete with all parts, and Bare PCB are sold in our [store](https://en.infinityproducts.co.jp/shop-1). If you are having trouble ordering a PCB, visit our store.
+The [SPIISD DIY kit](https://en.infinityproducts.co.jp/product-page/sp2sd-diykit-bare-pcb-board-a-b) comes complete with all parts, sold in our [store](https://en.infinityproducts.co.jp/shop-1). [SPIISD mini](https://en.infinityproducts.co.jp/product-page/spiisd-mini-for-iic-iicplus-iigs) is a compact hardware with fixed db19. It does not require assembly, so it is recommended for those who want to use it immediately, and for those who want a sense of unity with Apple IIc.
 
 
 
