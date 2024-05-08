@@ -16,7 +16,15 @@ https://ameblo.jp/keroxiee1016/entry-12819341808.html
 
 ## Flashing Arduino Nano
 
-You can flash your Arduino Nano via ArduinoIDE. Please download and use firmware of ["SmartportSD-1.15" folder](SmartportSD-1.15). If a new folder is created when using the Arduino IDE, please re-insert all the contents of this "SmartportSD-1.15" folder into the new folder. *The name of the ".ino" file should always be the same as the parent folder, so there is usually no problem if you use it as is.<BR>
+May 8th, 2024: SmartportSD program has been updated to Ver.1.16 by Wing Yeung from [MFA2 work shop](http://www.mfa2lab.com). version 1.16 has been thoroughly tested with "SPIISD" hardware and has confirmed good performance.This same 1.16 program can work with both "SPIISD DIY KIT" and "SPIISD MINI". *We have not verified SmartportSD compatible devices from other manufacturers. I think they work well if they keep the same schematics.<BR>
+
+- By placing "config.txt" at the root of the SD card, you can place various files without renaming them.<BR>
+- Write 4x file names in "config.txt". SPIISD will only read files with that filename.
+In addition to ".po", ".hdv" and ".2mg" can be used as extensions.<BR>
+- Of course, you can put an unlimited number of images in the root of the SD card, but only the config.txt file will be read.<BR>
+- If you do not place config.txt, you can also place four files from PART1.po as before.<BR>
+
+You can flash your Arduino Nano via ArduinoIDE. Please download and use firmware of ["SmartportSD-1.16" folder](SmartportSD-1.16). If a new folder is created when using the Arduino IDE, please re-insert all the contents of this "SmartportSD-1.16" folder into the new folder. *The name of the ".ino" file should always be the same as the parent folder, so there is usually no problem if you use it as is.<BR>
 <BR>
 The Nano board you should choose is MEGA328P. Please do not buy MEGA168P as it has 38% insufficient capacity and cannot be flashed.<BR>
 <img src="SD2SD_PIX/IMG_7158.jpeg" width="520px"><BR>
