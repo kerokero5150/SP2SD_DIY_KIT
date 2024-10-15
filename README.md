@@ -24,7 +24,7 @@ In addition to ".po", ".hdv" and ".2mg" can be used as extensions.<BR>
 - Of course, you can put an unlimited number of images in the root of the SD card, but only the config.txt file will be read.<BR>
 - If you do not place config.txt, you can also place four files from PART1.po as before.<BR>
 
-You can flash your Arduino Nano via ArduinoIDE. Please download and use firmware of ["SmartportSD-1.16" folder](SmartportSD-1.16). If a new folder is created when using the Arduino IDE, please re-insert all the contents of this "SmartportSD-1.16" folder into the new folder. *The name of the ".ino" file should always be the same as the parent folder, so there is usually no problem if you use it as is.<BR>
+You can flash your Arduino Nano via ArduinoIDE. Please download and use firmware of ["SmartportSD-1.17" folder](SmartportSD-1.17). If a new folder is created when using the Arduino IDE, please re-insert all the contents of this "SmartportSD-1.17" folder into the new folder. *The name of the ".ino" file should always be the same as the parent folder, so there is usually no problem if you use it as is.<BR>
 <BR>
 The Nano board you should choose is MEGA328P. Please do not buy MEGA168P as it has 38% insufficient capacity and cannot be flashed.<BR>
 <img src="SD2SD_PIX/IMG_7158.jpeg" width="520px"><BR>
