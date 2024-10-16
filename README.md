@@ -16,7 +16,7 @@ https://ameblo.jp/keroxiee1016/entry-12819341808.html
 
 ## Flashing Arduino Nano
 
-Oct 15th, 2024: SmartportSD program has been updated to Ver.1.17, version 1.17 has been thoroughly tested with "SPIISD" hardware and has confirmed good performance. Fixed a problem with the Apple IIcPlus. Usage is the same as V.1.16.
+Oct 15th, 2024: SmartportSD program has been updated to Ver.1.17, version 1.17 has been thoroughly tested with "SPIISD" hardware and has confirmed good performance. Fixed a problem with the Apple IIcPlus, and improved versatility with slower SD cards. Usage is the same as V.1.16.
 
 May 8th, 2024: SmartportSD program has been updated to Ver.1.16 by Wing Yeung from [MFA2 work shop](http://www.mfa2lab.com). version 1.16 has been thoroughly tested with "SPIISD" hardware and has confirmed good performance. This same 1.16 program can work with both "SPIISD DIY KIT" and "SPIISD MINI". *We have not verified SmartportSD compatible devices from other manufacturers. I think they work well if they keep the same schematics.<BR>
 
