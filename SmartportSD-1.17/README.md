@@ -1,8 +1,10 @@
-# SmartportSD FAT version 1.16
+# SmartportSD FAT version 1.17
 
 This is an enhancement of the [SmartportCFA/SmartportSD](http://www.users.on.net/~rjustice/SmartportCFA/SmartportCFA.htm) project by Robert Justice and Andrea Ottaviani. Instead of relying on four raw disk images written sequentially to an SD card, this version allows you to have up to four files on a FAT or FAT32 formatted SD card instead.
 
-version 1.16: Improved version by Wing Yeung from [MFA2 work shop](http://www.mfa2lab.com). version 1.16 has been thoroughly tested with "SPIISD" hardware and has confirmed good performance.This same 1.16 program can work with both "SPIISD DIY KIT" and "SPIISD MINI". *We have not verified SmartportSD compatible devices from other manufacturers. I think they work well if they keep the same schematics.
+version 1.17: Improved version by Wing Yeung from [MFA2 work shop](http://www.mfa2lab.com). version 1.16 has been thoroughly tested with "SPIISD" hardware and has confirmed good performance.This same 1.16 program can work with both "SPIISD DIY KIT" and "SPIISD MINI". V1.17 adds support for IIcPlus. Memory allocation has been changed to dynamic allocation.
+
+*We have not verified SmartportSD compatible devices from other manufacturers. I think they work well if they keep the same schematics.
 
 # Usage
 
